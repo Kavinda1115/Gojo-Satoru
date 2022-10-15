@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['9471423700']
-global.premium = ['94714230700']
+global.premium = ['94717018569']
 global.ownernomer = '94714230700'
 global.ownername = 'R.A Dilan kavinda'
 global.botname = 'Rosi-Baby'
@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://tiktok.com/@tik_tok_lion_'
 global.myweb = 'https://tiktok.com/@night_ghost_official'
 global.packname = 'ROSI-BABY'
-global.author = '🐦Star Boy Nexus'
+global.author = '🐦 Boy Kavi'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
